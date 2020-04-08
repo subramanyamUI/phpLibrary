@@ -1,0 +1,14 @@
+{
+    "name": "subramanyamDev/hello-world",
+    "authors": [
+        {
+            "name": "subramanyamDev"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-0": {
+            "HelloWorld": "src/"
+        }
+    }
+}
